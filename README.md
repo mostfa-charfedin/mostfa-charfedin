@@ -60,8 +60,5 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/mostfa-charfedin/mostfa-charfedin/output/snake.svg" alt="Snake animation" />
 
 ###
